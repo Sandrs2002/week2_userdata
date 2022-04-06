@@ -1,0 +1,16 @@
+C:\Users\aleks\source\repos\UserData\DrivingLisence\obj\Debug\net5.0\DrivingLisence.csproj.AssemblyReference.cache
+C:\Users\aleks\source\repos\UserData\DrivingLisence\obj\Debug\net5.0\DrivingLisence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\source\repos\UserData\DrivingLisence\obj\Debug\net5.0\DrivingLisence.AssemblyInfoInputs.cache
+C:\Users\aleks\source\repos\UserData\DrivingLisence\obj\Debug\net5.0\DrivingLisence.AssemblyInfo.cs
+C:\Users\aleks\source\repos\UserData\DrivingLisence\obj\Debug\net5.0\DrivingLisence.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\UserData\DrivingLisence\bin\Debug\net5.0\DrivingLisence.exe
+C:\Users\aleks\source\repos\UserData\DrivingLisence\bin\Debug\net5.0\DrivingLisence.deps.json
+C:\Users\aleks\source\repos\UserData\DrivingLisence\bin\Debug\net5.0\DrivingLisence.runtimeconfig.json
+C:\Users\aleks\source\repos\UserData\DrivingLisence\bin\Debug\net5.0\DrivingLisence.runtimeconfig.dev.json
+C:\Users\aleks\source\repos\UserData\DrivingLisence\bin\Debug\net5.0\DrivingLisence.dll
+C:\Users\aleks\source\repos\UserData\DrivingLisence\bin\Debug\net5.0\ref\DrivingLisence.dll
+C:\Users\aleks\source\repos\UserData\DrivingLisence\bin\Debug\net5.0\DrivingLisence.pdb
+C:\Users\aleks\source\repos\UserData\DrivingLisence\obj\Debug\net5.0\DrivingLisence.dll
+C:\Users\aleks\source\repos\UserData\DrivingLisence\obj\Debug\net5.0\ref\DrivingLisence.dll
+C:\Users\aleks\source\repos\UserData\DrivingLisence\obj\Debug\net5.0\DrivingLisence.pdb
+C:\Users\aleks\source\repos\UserData\DrivingLisence\obj\Debug\net5.0\DrivingLisence.genruntimeconfig.cache
